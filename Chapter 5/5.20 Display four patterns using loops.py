@@ -23,7 +23,7 @@ for i in range(1, 7):
     print()
 
 #Pattern D
-print("\n\nPattern B")
+print("\n\nPattern D")
 for i in range(1, 7):
     for j in range(1, 8-i):
         print(format(j, "2d"), end="")
