@@ -9,4 +9,4 @@ while salary <= 30000:
     else:
         salary += .12 * .01
 salesAmount = round(salesAmount, 2)
-print("To make $30000 salary the sales amount have to be:", salesAmount)
+print("To make $30000 salary the sales amount has to be:", salesAmount)
